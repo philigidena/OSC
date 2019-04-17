@@ -79,7 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel laravel framework
+                    
                 </div>
 
                 <div class="links">
